@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://highhill2020.github.io</id>
     <title>highhill2020</title>
-    <updated>2020-09-21T11:46:12.572Z</updated>
+    <updated>2020-09-21T11:56:48.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://highhill2020.github.io"/>
     <link rel="self" href="https://highhill2020.github.io/atom.xml"/>
@@ -11,9 +11,9 @@
     <icon>https://highhill2020.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, highhill2020</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://highhill2020.github.io/post/hello-gridea/</id>
-        <link href="https://highhill2020.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[欢迎来到高山2020博客]]></title>
+        <id>https://highhill2020.github.io/post/hello-highhill2020/</id>
+        <link href="https://highhill2020.github.io/post/hello-highhill2020/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
