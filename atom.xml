@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiuplayer.github.io</id>
-    <title>Cong&apos;s blog</title>
-    <updated>2020-11-23T15:12:44.622Z</updated>
+    <title>集邮者</title>
+    <updated>2020-11-23T15:17:18.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jiuplayer.github.io"/>
     <link rel="self" href="https://jiuplayer.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://jiuplayer.github.io/images/avatar.png</logo>
     <icon>https://jiuplayer.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Cong&apos;s blog</rights>
+    <rights>All rights reserved 2020, 集邮者</rights>
+    <entry>
+        <title type="html"><![CDATA[【2020-JT】]]></title>
+        <id>https://jiuplayer.github.io/post/2020-jt/</id>
+        <link href="https://jiuplayer.github.io/post/2020-jt/">
+        </link>
+        <updated>2020-11-23T15:14:28.000Z</updated>
+        <content type="html"><![CDATA[<p>2020-1 (2-1,2)T<br>
+<img src="https://jiuplayer.github.io/post-images/1606144537457.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
 </feed>
