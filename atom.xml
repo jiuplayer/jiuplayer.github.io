@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiuplayer.github.io</id>
     <title>集邮者</title>
-    <updated>2020-11-23T16:07:17.248Z</updated>
+    <updated>2020-11-24T13:36:06.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jiuplayer.github.io"/>
     <link rel="self" href="https://jiuplayer.github.io/atom.xml"/>
@@ -11,19 +11,51 @@
     <icon>https://jiuplayer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 集邮者</rights>
     <entry>
-        <title type="html"><![CDATA[【2020-JT】]]></title>
-        <id>https://jiuplayer.github.io/post/2020-jt/</id>
-        <link href="https://jiuplayer.github.io/post/2020-jt/">
+        <title type="html"><![CDATA[【2020-1】《庚子年》特种邮票]]></title>
+        <id>https://jiuplayer.github.io/post/0202001/</id>
+        <link href="https://jiuplayer.github.io/post/0202001/">
         </link>
-        <updated>2020-11-10T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>2020-1 (2-1)T<br>
+        <updated>2020-01-04T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>2020-1 (2-1)T 子鼠开天 1.20元<br>
 单套：<img src="https://jiuplayer.github.io/post-images/1606146635113.jpg" alt="" loading="lazy"><br>
 大版：<img src="https://jiuplayer.github.io/post-images/1606146672380.jpg" alt="" loading="lazy"><br>
 小型张：<img src="https://jiuplayer.github.io/post-images/1606147316880.jpg" alt="" loading="lazy"><br>
-2020-1 (2-2)T<br>
+2020-1 (2-2)T 鼠兆丰年 1.20元<br>
 单套：<img src="https://jiuplayer.github.io/post-images/1606146661511.jpg" alt="" loading="lazy"><br>
 大版：<img src="https://jiuplayer.github.io/post-images/1606146680773.jpg" alt="" loading="lazy"><br>
 小型张：<img src="https://jiuplayer.github.io/post-images/1606147341189.jpg" alt="" loading="lazy"></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2020-1 (2-1)T 子鼠开天 1.20元<br>
+单套：<img src="https://jiuplayer.github.io/post-images/1606146635113.jpg" alt="" loading="lazy"><br>
+大版：<img src="https://jiuplayer.github.io/post-images/1606146672380.jpg" alt="" loading="lazy"><br>
+小型张：<img src="https://jiuplayer.github.io/post-images/1606147316880.jpg" alt="" loading="lazy"><br>
+2020-1 (2-2)T 鼠兆丰年 1.20元<br>
+单套：<img src="https://jiuplayer.github.io/post-images/1606146661511.jpg" alt="" loading="lazy"><br>
+大版：<img src="https://jiuplayer.github.io/post-images/1606146680773.jpg" alt="" loading="lazy"><br>
+小型张：<img src="https://jiuplayer.github.io/post-images/1606147341189.jpg" alt="" loading="lazy"></p>
+<!-- more -->
+<p>发行通告：<br>
+　中国邮政定于2020年1月5日发行《庚子年》特种邮票1套2枚，小本票1本。详情如下：</p>
+<p>志号：2020-1</p>
+<p>图序                    图名           面值</p>
+<p>（2-1）T 　      子鼠开天        1.20元</p>
+<p>（2-2）T 　      鼠兆丰年        1.20元</p>
+<p>邮票规格：36×36毫米</p>
+<p>齿孔度数：13度</p>
+<p>整张枚数：版式一 16枚　　版式二 6枚</p>
+<p>整张规格：版式一 168×196毫米  　　版式二 128×180毫米</p>
+<p>小本票编号：（57）2020</p>
+<p>小本票成品规格：121×88毫米</p>
+<p>小本票售价：12元</p>
+<p>版　　别：胶雕套印</p>
+<p>防伪方式：防伪纸张　　防伪油墨　　异形齿孔　　荧光喷码</p>
+<p>设 计 者：韩美林</p>
+<p>雕 刻 者：刘博</p>
+<p>小本票设计者：王虎鸣</p>
+<p>责任编辑：王静</p>
+<p>印 制 厂：北京邮票厂</p>
+<p>出售办法：自发行之日起，在全国指定邮政网点、集邮网厅（https://jiyou.11185.cn）、中国邮政手机客户端和中国邮政微邮局集邮微信商城出售，出售期限6个月。</p>
+<p>注：同时发行《庚子年》邮票版式三（整张枚数：2套4枚；整张规格：120×160毫米；对联作者：常江），用于赠送给预订2020年全年纪特邮票的预订户。</p>
 ]]></content>
     </entry>
 </feed>
