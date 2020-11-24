@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiuplayer.github.io</id>
     <title>集邮者</title>
-    <updated>2020-11-24T13:51:46.818Z</updated>
+    <updated>2020-11-24T13:57:59.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jiuplayer.github.io"/>
     <link rel="self" href="https://jiuplayer.github.io/atom.xml"/>
@@ -11,22 +11,9 @@
     <icon>https://jiuplayer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 集邮者</rights>
     <entry>
-        <title type="html"><![CDATA[欢迎来到集邮者]]></title>
-        <id>https://jiuplayer.github.io/post/huan-ying-lai-dao-ji-you-zhe/</id>
-        <link href="https://jiuplayer.github.io/post/huan-ying-lai-dao-ji-you-zhe/">
-        </link>
-        <updated>2020-11-24T13:41:32.000Z</updated>
-        <content type="html"><![CDATA[<p>欢迎来到集邮者<br>
-1.此博客主要是为了收录邮票信息，图片，可供大家欣赏，可能由于本人技术有限，有些不正确的地方，仅供参考。<br>
-2.此博客中会转载我认为有用的博客文章，添加一些论坛或网站地址，但这些博客文章、论坛和网站上的内容和我没有关系，不代表我的意见，请网友自己多注意辨别。<br>
-3.此博客中转载文章会写明来源，感谢原作者的辛苦写作，如果有异议，及时联系我处理，谢谢！<br>
-4.欢迎指出有问题的地方，我会尽快修正，谢谢！</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【2020-1】《庚子年》特种邮票]]></title>
-        <id>https://jiuplayer.github.io/post/0202001/</id>
-        <link href="https://jiuplayer.github.io/post/0202001/">
+        <id>https://jiuplayer.github.io/0202001/</id>
+        <link href="https://jiuplayer.github.io/0202001/">
         </link>
         <updated>2020-01-04T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>2020-1 (2-1)T 子鼠开天 1.20元<br>
@@ -68,6 +55,19 @@
 <p>注：同时发行《庚子年》邮票版式三（整张枚数：2套4枚；整张规格：120×160毫米；对联作者：常江），用于赠送给预订2020年全年纪特邮票的预订户。</p>
 <p>※※※※※※※※※※※※※※※※※</p>
 <p>来源：中国邮政，中国集邮</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎来到集邮者]]></title>
+        <id>https://jiuplayer.github.io/welcome/</id>
+        <link href="https://jiuplayer.github.io/welcome/">
+        </link>
+        <updated>2019-12-31T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>欢迎来到集邮者<br>
+1.此博客主要是为了收录邮票信息，图片，可供大家欣赏，可能由于本人技术有限，有些不正确的地方，仅供参考。<br>
+2.此博客中会转载我认为有用的博客文章，添加一些论坛或网站地址，但这些博客文章、论坛和网站上的内容和我没有关系，不代表我的意见，请网友自己多注意辨别。<br>
+3.此博客中转载文章会写明来源，感谢原作者的辛苦写作，如果有异议，及时联系我处理，谢谢！<br>
+4.欢迎指出有问题的地方，我会尽快修正，谢谢！</p>
 ]]></content>
     </entry>
 </feed>
