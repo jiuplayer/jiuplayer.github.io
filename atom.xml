@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiuplayer.github.io</id>
     <title>集邮者</title>
-    <updated>2020-11-27T15:15:56.819Z</updated>
+    <updated>2020-11-27T15:27:23.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jiuplayer.github.io"/>
     <link rel="self" href="https://jiuplayer.github.io/atom.xml"/>
@@ -61,8 +61,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[欢迎来到集邮者]]></title>
-        <id>https://jiuplayer.github.io/welcome/</id>
-        <link href="https://jiuplayer.github.io/welcome/">
+        <id>https://jiuplayer.github.io/about/</id>
+        <link href="https://jiuplayer.github.io/about/">
         </link>
         <updated>2019-12-31T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>欢迎来到集邮者<br>
