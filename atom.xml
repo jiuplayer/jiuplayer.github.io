@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiuplayer.github.io</id>
     <title>集邮者</title>
-    <updated>2020-11-28T09:00:14.150Z</updated>
+    <updated>2020-11-28T09:08:30.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jiuplayer.github.io"/>
     <link rel="self" href="https://jiuplayer.github.io/atom.xml"/>
@@ -11,13 +11,22 @@
     <icon>https://jiuplayer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 集邮者</rights>
     <entry>
+        <title type="html"><![CDATA[友情链接]]></title>
+        <id>https://jiuplayer.github.io/_e6_ny1jb/</id>
+        <link href="https://jiuplayer.github.io/_e6_ny1jb/">
+        </link>
+        <updated>2020-11-28T09:06:17.000Z</updated>
+        <content type="html"><![CDATA[<p>中国邮政</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【2020-1】《庚子年》特种邮票]]></title>
         <id>https://jiuplayer.github.io/0202001/</id>
         <link href="https://jiuplayer.github.io/0202001/">
         </link>
         <updated>2020-01-04T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>中国邮政：<a href="https://4m.cn/Ul0Fw ">点击进入</a><br>
-邮宝行情：<a href="https://4m.cn/Uo1b1">点击进入</a><br>
+        <content type="html"><![CDATA[<p>中国邮政：<a href="http://www.chinapost.com.cn/html1/stamp/19101/632-1.htm">点击进入</a><br>
+邮宝行情：<a href="https://www.youbao360.com/MarketDet?goodsId=202001041624112&name=%E5%9B%9B%E8%BD%AE%E9%BC%A0%E5%A5%97%E7%A5%A8&code=2020-1&ctype=stamp">点击进入</a><br>
 2020-1 (2-1)T 子鼠开天 1.20元<br>
 单套：<br>
 <img src="https://jiuplayer.github.io/post-images/1606146635113.jpg" alt="" loading="lazy"><br>
