@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiuplayer.github.io</id>
     <title>集邮者</title>
-    <updated>2020-11-28T09:08:30.717Z</updated>
+    <updated>2020-11-28T09:37:44.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jiuplayer.github.io"/>
     <link rel="self" href="https://jiuplayer.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://jiuplayer.github.io/images/avatar.png</logo>
     <icon>https://jiuplayer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 集邮者</rights>
-    <entry>
-        <title type="html"><![CDATA[友情链接]]></title>
-        <id>https://jiuplayer.github.io/_e6_ny1jb/</id>
-        <link href="https://jiuplayer.github.io/_e6_ny1jb/">
-        </link>
-        <updated>2020-11-28T09:06:17.000Z</updated>
-        <content type="html"><![CDATA[<p>中国邮政</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[【2020-1】《庚子年》特种邮票]]></title>
         <id>https://jiuplayer.github.io/0202001/</id>
